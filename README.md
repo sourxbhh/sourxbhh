@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sourxbhh
-- 👀 I’m interested in Gaming
+- 👋 Hi, I’m Sourabh
+- 👀 I’m into Gaming
 - 🌱 I’m currently learning Python
 
 
