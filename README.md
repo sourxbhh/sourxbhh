@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sourabh
-- 👀 I’m into Gaming
-- 🌱 I’m currently learning Python
+Data Analyst & Analytics Engineer | Python · SQL · dbt · Azure · Spark · Airflow
+Building end-to-end data pipelines and analytics platforms. Open to roles in data engineering and analytics.
 
 
 <!---
