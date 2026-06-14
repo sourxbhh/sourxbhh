@@ -1,8 +1,7 @@
-Data Analyst & Analytics Engineer | Python · SQL · dbt · Azure · Spark · Airflow
-Building end-to-end data pipelines and analytics platforms. Open to roles in data engineering and analytics.
+## Sourabh Kumar Dubey
 
+Data Analyst / Analytics Engineer based in Charlotte, NC.
 
-<!---
-sourxbhh/sourxbhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Skills:** Python · SQL · dbt · DuckDB · Azure ADLS Gen2 · Apache Kafka · Spark · Airflow · FastAPI · Power BI · Terraform · GitHub Actions
+
+Open to Data Analyst and Analytics Engineer roles.
